@@ -4,7 +4,7 @@
 - Đăng nhập theo vai trò (Admin, User)
 - User: Đặt hàng, xem thông tin danh mục, sản phẩm
 - Admin: Quản lý kho, cập nhật thông tin sản phẩm, danh mục, xác nhận đơn đặt hàng
-
+- Sử dụng JWT để phân quyền API
 ## Technologies
 - Java 8
 - Spring Boot 2.4.4
